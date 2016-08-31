@@ -1,19 +1,29 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
+      <div>
+        <div className="container-info">
+
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="container-main">
+          <div className="about">
+            <div className="tag">About Me</div>
+            <p className="copy">
+              I'm Felipe Schneeberger (Shompi), currently studying computer engineering in Temuco, Chile.
+            </p>
+            <p className="copy">
+              I'm currently developing an own project called <strong>Kuubit.</strong>
+            </p>
+            <p className="copy">
+              I like Web applications development with programming languages such as <strong>Javascript, Go, Ruby, Python.</strong>
+            </p>
+          </div>
+        </div>
       </div>
+
     );
   }
 }
