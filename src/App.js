@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
 import './animation.css';
-import go_logo from './go_logo.png';
-import mongodb_logo from './mongodb_logo.png';
-import reactjs_logo from './reactjs_logo.png';
-import redux_logo from './redux_logo.png';
+import go_logo from './go-logo.jpg';
+import mongodb_logo from './mongodb-logo.jpg';
+import reactjs_logo from './reactjs-logo.jpg';
+import redux_logo from './redux-logo.jpg';
+import avatar from './me.jpg';
 
 class App extends Component {
   render() {
@@ -12,13 +13,27 @@ class App extends Component {
       <div>
         <div className="container-info fadeInLeft animated">
           <div className="inner-block">
-            <h1>Hey, I'm Felipe,</h1>
-            <h3 className="">a Chilean front-end and back-end developer <br/>studing in Chile at TEMUCO</h3>
-            <div className="logos">
-              <a href="https://golang.org/" target="_blank"><img src={go_logo} role="presentation"/></a>
-              <a href="https://www.mongodb.com" target="_blank"><img src={mongodb_logo} role="presentation"/></a>
-              <a href="https://facebook.github.io/react/" target="_blank"><img src={reactjs_logo} role="presentation"/></a>
-              <a href="http://redux.js.org/" target="_blank">  <img src={redux_logo} role="presentation"/></a>
+            <div className="content-block">
+              <img className="avatar" src={avatar} role="presentation"/>
+              <h1>Hey, I'm Shompi,</h1>
+              <h3>a Chilean developer (Full Stack)</h3>
+              <h4>I'm studying computer engineering <br/> in the city of Temuco, Chile.</h4>
+              <div className="logos">
+                <a href="https://golang.org/" target="_blank"><img src={go_logo} role="presentation"/></a>
+                <a href="https://www.mongodb.com" target="_blank"><img src={mongodb_logo} role="presentation"/></a>
+                <a href="https://facebook.github.io/react/" target="_blank"><img src={reactjs_logo} role="presentation"/></a>
+                <a href="http://redux.js.org/" target="_blank"><img src={redux_logo} role="presentation"/></a>
+              </div>
+              <a className="main-button">Contact Me!</a>
+              <div className="footer">
+                <ul>
+                  <li><a className="fa fa-github"></a></li>
+                  <li><a className="fa fa-facebook"></a></li>
+                  <li><a className="fa fa-twitter"></a></li>
+                </ul>
+                <p>Created with <i className="fa fa-heart"></i> in Temuco, Chile.</p>
+              </div>
+
             </div>
           </div>
         </div>
