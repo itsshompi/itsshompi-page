@@ -138,8 +138,15 @@
 }
 .footer ul li a {
   text-decoration: none;
-  padding: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
   color: #fff;
+  font-size: 24px;
+  transition: 0.3s;
+}
+.footer ul li a:hover {
+  transition: 0.3s;
+  color: #cdcdcd;
 }
 
 .container-main {

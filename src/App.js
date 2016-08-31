@@ -27,9 +27,9 @@ class App extends Component {
               <a className="main-button">Contact Me!</a>
               <div className="footer">
                 <ul>
-                  <li><a className="fa fa-github"></a></li>
-                  <li><a className="fa fa-facebook"></a></li>
-                  <li><a className="fa fa-twitter"></a></li>
+                  <li><a><i className="fa fa-github"></i></a></li>
+                  <li><a><i className="fa fa-youtube"></i></a></li>
+                  <li><a><i className="fa fa-twitter"></i></a></li>
                 </ul>
                 <p>Created with <i className="fa fa-heart"></i> in Temuco, Chile.</p>
               </div>
