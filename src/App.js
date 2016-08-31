@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
+import './animation.css';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <div className="container-info">
+        <div className="container-info fadeInLeft animated">
 
         </div>
-        <div className="container-main">
+        <div className="container-main fadeInRight animated">
           <div className="about">
             <div className="tag">About Me</div>
             <p className="copy">
