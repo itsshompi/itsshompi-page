@@ -1,0 +1,38 @@
+.animated-1-2s{
+  -webkit-animation-duration: 1.2s;
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -moz-animation-delay: 1.2s;
+  animation-duration: 1.2s;
+  animation-delay: 1.2s;
+}
+.animated-1-4s{
+  -webkit-animation-duration: 1.4s;
+  -webkit-animation-delay: 1.4s;
+  -moz-animation-duration: 1.4s;
+  -moz-animation-delay: 1.4s;
+  animation-duration: 1.4s;
+  animation-delay: 1.4s;
+}
+.animated-1-6s{
+  -webkit-animation-duration: 1.6s;
+  -webkit-animation-delay: 1.6s;
+  -moz-animation-duration: 1.6s;
+  -moz-animation-delay: 1.6s;
+  animation-duration: 1.6s;
+  animation-delay: 1.6s;
+}
+.delay-2s{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 2s;
+  -moz-animation-duration: 2s;
+  -moz-animation-delay: 2s;
+  animation-duration: 2s;
+  animation-delay: 2s;
+}
+.animated-3s{
+  transition: 3s;
+}
+.animated-4s{
+  transition: 4s;
+}

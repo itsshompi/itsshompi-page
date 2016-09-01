@@ -1,23 +1,29 @@
 import React, { Component } from 'react';
 import './App.css';
 import './animation.css';
-import go_logo from './go-logo.jpg';
-import mongodb_logo from './mongodb-logo.jpg';
-import reactjs_logo from './reactjs-logo.jpg';
-import redux_logo from './redux-logo.jpg';
-import avatar from './me.jpg';
+import './animation-delay.css';
+import go_logo from './images/go-logo.jpg';
+import mongodb_logo from './images/mongodb-logo.jpg';
+import reactjs_logo from './images/reactjs-logo.jpg';
+import redux_logo from './images/redux-logo.jpg';
+import avatar from './images/me.jpg';
 
 class App extends Component {
   render() {
     return (
       <div>
+        <video preload="auto" id="video" loop="true" autoPlay="true" muted="true" className="delay-2s fadeIn animated">
+          <source type="video/webm" src="http://43eb74ada891f0f09679-c04bb4ac5bb47a13c85d2a60607693e6.r18.cf2.rackcdn.com/frost/coding.webm" />
+          <source type="video/mp4" src="http://43eb74ada891f0f09679-c04bb4ac5bb47a13c85d2a60607693e6.r18.cf2.rackcdn.com/frost/coding.mp4"/>
+        </video>
         <div className="container-info fadeInLeft animated">
           <div className="inner-block">
-            <div className="content-block">
-              <img className="avatar" src={avatar} role="presentation"/>
-              <h1>Hey, I'm Shompi,</h1>
+            <div className="content-block delay-2s fadeIn animated">
+              <img className="avatar animated-1-4s fadeIn animated" src={avatar} role="presentation"/>
+              <h1 className="">Hey, I'm Shompi,</h1>
               <h3>a Chilean developer (Full Stack)</h3>
               <h4>I'm studying computer engineering <br/> in the city of Temuco, Chile.</h4>
+              <p className="stack">My Stack:</p>
               <div className="logos">
                 <a href="https://golang.org/" target="_blank"><img src={go_logo} role="presentation"/></a>
                 <a href="https://www.mongodb.com" target="_blank"><img src={mongodb_logo} role="presentation"/></a>
@@ -33,7 +39,6 @@ class App extends Component {
                 </ul>
                 <p>Created with <i className="fa fa-heart"></i> in Temuco, Chile.</p>
               </div>
-
             </div>
           </div>
         </div>
