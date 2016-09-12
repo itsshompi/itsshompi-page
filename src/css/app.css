@@ -217,7 +217,9 @@
 .list {
   font-size: 14px;
 }
-
+.list a {
+  text-decoration: none;
+}
 .list li:first-child {
   list-style: none;
   font-family: 'Montserrat', sans-serif;
@@ -228,15 +230,4 @@
   line-height: 26px;
   text-align: justify;
   text-justify: inter-word;
-}
-
-.copy a {
-  padding: 0 4px 2px 4px;
-  border-bottom: 2px solid #A3C0FC;
-  font-weight: 400;
-  transition: background-color 0.3s, border-color 0.3s;
-}
-.copy a:hover {
-  background-color: #E9F0FF;
-  border-color: #1560FB;
 }

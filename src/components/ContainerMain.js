@@ -31,7 +31,35 @@ class ContainerMain extends Component {
           </p>
           <hr className="divisor"/>
           <h3 className="sub-title"><span>Jobs: </span></h3>
-          <p className="copy"></p>
+          <p className="copy">
+            <ul className="list">
+              <li>Kuubit (current)</li>
+              <li>2016</li>
+              <li>Description: </li>
+              <li>Video: <a href="https://www.youtube.com/watch?v=gc0VPy8Sjm8" target="_blank"> view</a></li>
+            </ul>
+            <ul className="list">
+              <li>DentalApp</li>
+              <li>2016</li>
+              <li>Description: </li>
+            </ul>
+            <ul className="list">
+              <li>CloudEducation</li>
+              <li>2014 - 2015 </li>
+              <li>Description: </li>
+              <li>Video: </li>
+            </ul>
+            <ul className="list">
+              <li>Random Network</li>
+              <li>2013 - 2014</li>
+              <li>Description: </li>
+            </ul>
+            <ul className="list">
+              <li>UpWeb</li>
+              <li>2009</li>
+              <li>Description: </li>
+            </ul>
+          </p>
           <hr className="divisor"/>
           <h3 className="sub-title"><span>Awards: </span></h3>
           <p className="copy">
