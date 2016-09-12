@@ -29,7 +29,9 @@ class ContainerInfo extends Component {
               <a href="https://facebook.github.io/react/" target="_blank"><img src={reactjs_logo} role="presentation"/></a>
               <a href="http://redux.js.org/" target="_blank"><img src={redux_logo} role="presentation"/></a>
             </div>
-            <a className="main-button delay-2-5s fadeIn animated">Contact Me!</a>
+            <div className="content-button">
+              <a className="main-button delay-2-5s fadeIn animated">Contact Me!</a>
+            </div>
             <div className="footer delay-3s fadeIn animated">
               <ul>
                 <li><a><i className="fa fa-github"></i></a></li>

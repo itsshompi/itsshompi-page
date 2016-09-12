@@ -67,7 +67,7 @@
     }
 }
 .inner-block .content-block{
-  margin: 15% 0 0;
+  margin: 10% 0 0;
 }
 
 .avatar {
@@ -98,7 +98,9 @@
   background-size: cover;
   height: 100%!important
 }
-
+.content-button {
+  padding: 15px;
+}
 .main-button {
   display: block;
   position: relative;
@@ -106,7 +108,7 @@
   cursor: pointer;
   width: 200px;
   margin: 30px auto auto auto;
-  padding: 11px 24px;
+  padding: 10px 24px;
   color: #ffffff;
   background: transparent;
   border: 3px solid #fff;
