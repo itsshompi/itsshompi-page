@@ -34,7 +34,24 @@ class ContainerMain extends Component {
           <p className="copy"></p>
           <hr className="divisor"/>
           <h3 className="sub-title"><span>Awards: </span></h3>
-          <p className="copy"></p>
+          <p className="copy">
+            <ul className="list">
+              <li>CAPITAL SEMILLA SERCOTEC</li>
+              <li>$3.500 USD for the development of CloudEducation Application.</li>
+            </ul>
+            <ul className="list">
+              <li>HACELERA HACK - LEAN STARTUP</li>
+              <li>First place with QuickPark Application. Purchase intent: Casino Dream Temuco and eight parking.</li>
+            </ul>
+            <ul className="list">
+              <li>CAPITAL SEMILLA CORFO $50.000 USD</li>
+              <li>Second stage</li>
+            </ul>
+            <ul className="list">
+              <li>KUNG FU CHAMPIONSHIP CHILE 2009 (HOBBIE)</li>
+              <li>Third place on amateour category</li>
+            </ul>
+          </p>
           <hr className="divisor"/>
 
           <h3 className="sub-title"><span>Finished web courses: </span></h3>
