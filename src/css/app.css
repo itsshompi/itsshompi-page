@@ -3,7 +3,9 @@
   position: relative;
   width: 100%;
   min-height: 490px;
-  background: rgba(19, 119, 133, 0.51);
+  background-image: url('../images/bg_04.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media (min-width: 768px) {
@@ -18,18 +20,22 @@
 }
 .container-info h1 {
   font-family: "Montserrat", sans-serif;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 400;
   text-align: center;
   color: #f7f7f7;
 }
 .container-info h3 {
   font-family: "Montserrat", sans-serif;
-  font-size: 21px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 500;
   text-align: center;
   color: #f7f7f7;
   margin: 0;
+}
+.container-info h3 span {
+  color: #cb3903;
+  font-weight: 700;
 }
 .container-info h4 {
   font-family: "Montserrat", sans-serif;
@@ -67,12 +73,12 @@
     }
 }
 .inner-block .content-block{
-  margin: 10% 0 0;
+  margin: 20% 0 0;
 }
 
 .avatar {
   display: block;
-  margin: auto;
+  margin: 50px auto;
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -132,12 +138,13 @@
   font-family: 'Montserrat', sans-serif;
   color: #edecec;
 }
+
 .footer p i {
   color: #ee2a07;
 }
 .footer ul {
   margin: 0;
-  padding: 50px;
+  padding: 75px 0 25px 0;
   list-style-type: none;
   text-align: center;
 }
@@ -149,7 +156,7 @@
   cursor: pointer;
   padding: 5px 10px;
   color: #fff;
-  font-size: 24px;
+  font-size: 18px;
   transition: 0.3s;
 }
 .footer ul li a:hover {
@@ -159,7 +166,7 @@
 
 .container-main {
   display: inline-block;
-  padding: 20px 50px;
+  padding: 20px 36px;
   background: #f2f2f2;
 }
 @media (min-width: 768px) {
@@ -183,16 +190,39 @@
 
 .title{
   font-size: 32px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+.divisor {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ebebeb;
+  margin: 30px auto;
+  width: 20%;
+  padding: 0;
+}
+.sub-title{
+  font-size: 18px;
   font-weight: 300;
 }
-
-.sub-title{
-  font-size: 26px;
-  font-weight: 300;
+.sub-title span {
+  text-decoration: none;
+  border-bottom: 1px solid #ff4500;
 }
 .name-institution {
   font-size: 21px;
   font-weight: 300;
+}
+.list {
+  padding-left: 0;
+}
+.list li {
+  list-style: none;
+}
+.list li:first-child {
+  font-size: 18px;
+  font-weight: 700;
 }
 .copy {
   font-weight: 300;
