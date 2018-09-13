@@ -8,19 +8,19 @@ export default class Main extends Component {
     return (
       <div className="container-main fadeInRight animated">
         <div className="about">
-          <h1 className="title">About Me</h1>
-          <h3 className="sub-title"><span>Who I am?</span></h3>
+          <h1 className="title">Sobre Mi</h1>
+          <h3 className="sub-title"><span>¿Quien soy?</span></h3>
           <p className="copy">
-            I'm Felipe Schneeberger (Shompi), currently studying computer engineering in Temuco, Chile.
+            Soy Felipe Schneeberger, mis amigos me llaman "Shompi" y actualmente estudio Ingeneria civil en informática en la <a href="https://www.uctemuco.cl" target="_blank" rel="noopener noreferrer">Universidad Catolica de Temuco</a>, Chile.
           </p>
           <p className="copy">
-            I'm currently developing an own project called <strong>Kuubit.</strong>
+            Hoy me encuentro en la creación de una empresa enfocada en el area investigación y desarrollo de inteligencia artificial llamada <strong>Valaris AI.</strong>
           </p>
           <p className="copy">
-            I like Web applications development with programming languages such as <strong>Javascript, Go, Ruby, Python.</strong>
+            Me gusta investigar sobre el estado del arte de la inteligencia artificial, aunque tambien me dedico a crear aplicaciones web con lenguajes de programación como <strong>Javascript, Go, Ruby, Python.</strong>
           </p>
           <p className="copy">
-            I'm specialized in web development with the following stack:
+            Para el desarrollo web me especializo en las siguientes tecnologias:
             <ul>
               <li><strong>Frontend:</strong> ReactJS & Redux.</li>
               <li><strong>Backend:</strong> Go</li>
@@ -28,11 +28,11 @@ export default class Main extends Component {
             </ul>
           </p>
           <hr className="divisor"/>
-          <h3 className="sub-title"><span>Jobs:</span> </h3>
+          <h3 className="sub-title"><span>Trabajos:</span> </h3>
           <p className="copy">
             <ul className="list">
-              <li>Proyecto FONDECYT De Iniciación En Investigación 2017 Nro. 11170583</li>
-              <li></li>
+              <li>Proyecto FONDECYT De Iniciación En Investigación 2017 Nro. 11170583 (2017 - Actualidad)</li>
+              <li>La Definición De Población Educativa “Prioritaria” De La Ley Nro. 20.248 Como Indicador De Vulnerabilidad En El Estudio De La Segregación Socio-Económica En El Sistema De Educación Básica Chilena.</li>
             </ul>
             <ul className="list">
               <li></li>
@@ -40,7 +40,7 @@ export default class Main extends Component {
             </ul>
           </p>
           <hr className="divisor"/>
-          <h3 className="sub-title"><span>Projects:</span> </h3>
+          <h3 className="sub-title"><span>Proyectos:</span> </h3>
           <p className="copy">
             <ul className="list">
               <li></li>

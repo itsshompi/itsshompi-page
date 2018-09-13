@@ -49,15 +49,9 @@
 }
 
 .copy a {
-  padding: 0 4px 2px 4px;
-  border-bottom: 2px solid #A3C0FC;
-  font-weight: 400;
-  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
 }
-.copy a:hover {
-  background-color: #E9F0FF;
-  border-color: #1560FB;
-}
+
 
 .divisor {
     display: block;
