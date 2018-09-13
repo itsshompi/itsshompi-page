@@ -28,6 +28,42 @@ export default class Main extends Component {
             </ul>
           </p>
           <hr className="divisor"/>
+          <h3 className="sub-title"><span>Jobs:</span> </h3>
+          <p className="copy">
+            <ul className="list">
+              <li>Proyecto FONDECYT De Iniciación En Investigación 2017 Nro. 11170583</li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+          </p>
+          <hr className="divisor"/>
+          <h3 className="sub-title"><span>Projects:</span> </h3>
+          <p className="copy">
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li></li>
+              <li></li>
+            </ul>
+          </p>
+          <hr className="divisor"/>
           <h3 className="sub-title"><span>Awards:</span> </h3>
           <p className="copy">
             <ul className="list">
