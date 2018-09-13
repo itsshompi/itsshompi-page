@@ -14,7 +14,7 @@ export default class Info extends Component {
           <div className="content-block">
             <img className="avatar" src={avatar} role="presentation" alt="Felipe Schneeberger"/>
             <h1>Hey, I'm Shompi,</h1>
-            <h3>a Chilean passionate about <span>artificial intelligence</span> & <br/> <span>full stack developer</span>  studying <br/> <span>computer engineering</span>  in Temuco, Chile.</h3>
+            <h3>a Chilean passionate about <span>artificial intelligence</span> & <br/> <span>full stack developer</span> studying <br/> <span>computer engineering</span>  in Temuco, Chile.</h3>
             <div className="content-button">
               <a className="main-button" href="mailto:itsshompi@gmail.com">Contact Me!</a>
             </div>

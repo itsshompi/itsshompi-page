@@ -58,3 +58,23 @@
   background-color: #E9F0FF;
   border-color: #1560FB;
 }
+
+.divisor {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ebebeb;
+    margin: 30px auto;
+    width: 20%;
+    padding: 0;
+}
+
+.list {
+    font-size: 14px;
+}
+
+.list li:first-child {
+    list-style: none;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+}
