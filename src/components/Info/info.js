@@ -13,13 +13,13 @@ export default class Info extends Component {
         <div className="inner-block">
           <div className="content-block">
             <img className="avatar" src={avatar} role="presentation" alt="Felipe Schneeberger"/>
-            <h1>Hey, I'm Shompi,</h1>
-            <h3>a Chilean passionate about <span>artificial intelligence</span> & <br/> <span>full stack developer</span> studying <br/> <span>computer engineering</span>  in Temuco, Chile.</h3>
+            <h1>Hola, yo soy "Shompi",</h1>
+            <h3>un Chileno apasionado por la <span>inteligencia artificial</span> y <br/> <span>desarrollar full stack</span> estudiando <br/> <span>ingeneria civil en informática</span> en Temuco, Chile.</h3>
             <div className="content-button">
-              <a className="main-button" href="mailto:itsshompi@gmail.com">Contact Me!</a>
+              <a className="main-button" href="mailto:itsshompi@gmail.com">Contactame!</a>
             </div>
             <div className="footer">
-              <p>Social Networks</p>
+              <p>Redes Sociales</p>
               <ul>
                 <li><a href="https://github.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
                 <li><a href="https://www.youtube.com/channel/UCpsVc3k595ADJaHoC1s6zWA" target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a></li>
@@ -28,7 +28,7 @@ export default class Info extends Component {
                 <li><a href="https://www.facebook.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
                 <li><a href="https://twitch.tv/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitch"></i></a></li>
               </ul>
-              <p>Created with <i className="fa fa-heart"></i> in Temuco, Chile.</p>
+              <p>Creado con <i className="fa fa-heart"></i> en Temuco, Chile.</p>
             </div>
           </div>
         </div>
