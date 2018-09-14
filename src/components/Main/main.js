@@ -35,60 +35,73 @@ export default class Main extends Component {
               <li>La Definición De Población Educativa “Prioritaria” De La Ley Nro. 20.248 Como Indicador De Vulnerabilidad En El Estudio De La Segregación Socio-Económica En El Sistema De Educación Básica Chilena.</li>
             </ul>
             <ul className="list">
-              <li></li>
-              <li></li>
+              <li>Empresa Random Network LTDA. (2013)</li>
+              <li>Co-Founder y Desarrollador Web</li>
+            </ul>
+            <ul className="list">
+              <li>Construmart Temuco (2012)</li>
+              <li>Asistente de venta en Patio Constructor</li>
+            </ul>
+            <ul className="list">
+              <li>Constructura Construmart Temuco (2012)</li>
+              <li>Encargado de Montaje de Racks</li>
             </ul>
           </p>
           <hr className="divisor"/>
           <h3 className="sub-title"><span>Proyectos:</span> </h3>
           <p className="copy">
             <ul className="list">
-              <li></li>
-              <li></li>
-            </ul>
-            <ul className="list">
-              <li></li>
+              <li>Aplicación y Pagina Web para Restaurant "Las Terrazas Cocholgue" - (2017)</li>
               <li></li>
             </ul>
             <ul className="list">
-              <li></li>
-              <li></li>
-            </ul>
-            <ul className="list">
-              <li></li>
+              <li>Aplicación para Restaurant "Fusión Temuco" (2017)</li>
               <li></li>
             </ul>
             <ul className="list">
-              <li></li>
+              <li>Aplicacion Web DentalApp (2016)</li>
               <li></li>
             </ul>
+            <ul className="list">
+              <li>Aplicacion Desktop "Calculadora Colegio Bautista" (2016)</li>
+              <li></li>
+            </ul>
+            <ul className="list">
+              <li>Aplicacion Web CloudEducation (2014)</li>
+              <li>Aplcación web que ayuda tanto a profesores, directores, alumnos y apoderados a estar enterado de todo lo que sucede en el establecimiento, entregando información desde notas hasta plantillas de planificiaciones para profesores.</li>
+            </ul>
+
           </p>
           <hr className="divisor"/>
-          <h3 className="sub-title"><span>Awards:</span> </h3>
+          <h3 className="sub-title"><span>Premios:</span> </h3>
           <p className="copy">
             <ul className="list">
-              <li>HACKAMERICAS 2018</li>
-              <li>Finalist at Hackamericas Chile with patent recognition software in mobile devices.</li>
+              <li>HACKAMERICAS (2018)</li>
+              <li>Finalista en Hackamericas Chile con software de reconocimiento de placas patentes en dispositivos moviles.</li>
             </ul>
             <ul className="list">
-              <li>CAPITAL SEMILLA SERCOTEC</li>
-              <li>$3.500 USD for the development of CloudEducation Application.</li>
+              <li>HACELERA HACK - LEAN STARTUP (2015)</li>
+              <li>Primer lugar con la aplicación QuickPark.</li>
             </ul>
             <ul className="list">
-              <li>HACELERA HACK - LEAN STARTUP</li>
-              <li>First place with QuickPark Application.</li>
+              <li>CAPITAL SEMILLA SERCOTEC (2014)</li>
+              <li>$2M para el desarrollo de la aplicación CloudEducation.</li>
             </ul>
             <ul className="list">
-              <li>CAPITAL SEMILLA CORFO $50.000 USD</li>
-              <li>Second stage</li>
+              <li>CAMPEONATO INTERLICEOS TEMUCO FUTBOL (2010 - HOBBIE)</li>
+              <li>Tercer Lugar (Capitan de la selección)</li>
             </ul>
             <ul className="list">
-              <li>KUNG FU CHAMPIONSHIP CHILE 2009 (HOBBIE)</li>
-              <li>Third place on amateour category</li>
+              <li>CAMPEONATO DE LA HISPANIDAD FUTBOL (2009 - HOBBIE)</li>
+              <li>Primer Lugar, Mejor Arquero y Mejor Jugador del Campeonato</li>
+            </ul>
+            <ul className="list">
+              <li>KUNG FU CHAMPIONSHIP CHILE (2009 - HOBBIE)</li>
+              <li>Tercer lugar en la categoria amateour</li>
             </ul>
           </p>
           <hr className="divisor"/>
-          <h3 className="sub-title"><span>Finished web courses:</span> </h3>
+          <h3 className="sub-title"><span>Cursos web terminados:</span> </h3>
           <p className="copy">
             <ul className="list">
               <li>Platzi:</li>
