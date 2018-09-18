@@ -52,11 +52,11 @@ export default class Main extends Component {
           <p className="copy">
             <ul className="list">
               <li>Aplicación y Pagina Web para Restaurant "Las Terrazas Cocholgue" - (2017)</li>
-              <li></li>
+              <li>Aplicación web para la administración del restaurant y Aplicación android tipo WebView para tablets que ocupan los garzones o meseros. La aplicación se conecta con las impresoras termicas / POS para enviar el pedido a la cocina y ademas obtener el recibo para el cliente.</li>
             </ul>
             <ul className="list">
               <li>Aplicación para Restaurant "Fusión Temuco" (2017)</li>
-              <li></li>
+              <li>Aplicación que permite poder llevar un registro de todos los pedidos en el restaurant, ademas de entregar un detalle de lo recaudado. La aplicación trabaja con impresoras termincas / POS.</li>
             </ul>
             <ul className="list">
               <li>Aplicacion Web DentalApp (2016)</li>
@@ -133,6 +133,12 @@ export default class Main extends Component {
           <h3 className="sub-title"><span>Cursos web terminados:</span> </h3>
           <p className="copy">
             <ul className="list">
+              <li>Coursera:</li>
+              <li>Detección de objetos por Universitat Autònoma de Barcelona</li>
+            </ul>
+          </p>
+          <p className="copy">
+            <ul className="list">
               <li>Platzi:</li>
               <li>Curso Profesional de React.js</li>
               <li>Curso profesional de Ruby on Rails</li>
@@ -177,6 +183,7 @@ export default class Main extends Component {
               <li>HTML & CSS - Traducción al Español (América Latina) </li>
               <li>JavaScript - Traducción al Español (América Latina) </li>
               <li>PHP</li>
+              <li>Learn Git</li>
             </ul>
           </p>
         </div>
