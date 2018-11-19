@@ -11,16 +11,16 @@ export default class Main extends Component {
           <h1 className="title">Sobre Mi</h1>
           <h3 className="sub-title"><span>¿Quien soy?</span></h3>
           <p className="copy">
-            Soy Felipe Schneeberger, mis amigos me llaman "Shompi" y actualmente estudio Ingeneria civil en informática en la <a href="https://www.uctemuco.cl" target="_blank" rel="noopener noreferrer">Universidad Catolica de Temuco</a>, Chile.
+            Soy Felipe Schneeberger, actualmente estudio Ingeniería civil en informática en la <a href="https://www.uctemuco.cl" target="_blank" rel="noopener noreferrer">Universidad Católica de Temuco</a>, Chile.
           </p>
           <p className="copy">
-            Hoy me encuentro en la creación de una empresa enfocada en el area investigación y desarrollo de inteligencia artificial llamada <strong>Valaris AI.</strong>
+            Hoy me encuentro en la creación de una empresa enfocada en el área investigación y desarrollo de inteligencia artificial llamada <strong>Valaris AI.</strong>
           </p>
           <p className="copy">
-            Me gusta investigar sobre el estado del arte de la inteligencia artificial, aunque tambien me dedico a crear aplicaciones web con lenguajes de programación como <strong>Javascript, Go, Ruby, Python.</strong>
+            Me gusta investigar sobre el estado del arte de la inteligencia artificial, aunque también me dedico a crear aplicaciones web con lenguajes de programación como <strong>JavaScript, Go, Ruby, Python.</strong>
           </p>
           <p className="copy">
-            Para el desarrollo web me especializo en las siguientes tecnologias:
+            Para el desarrollo web me especializo en las siguientes tecnologías:
             <ul>
               <li><strong>Frontend:</strong> ReactJS & Redux.</li>
               <li><strong>Backend:</strong> Go</li>
@@ -51,6 +51,10 @@ export default class Main extends Component {
           <h3 className="sub-title"><span>Proyectos:</span> </h3>
           <p className="copy">
             <ul className="list">
+              <li>Sandbox Augmented Reality/Virtual Reality - (2018)</li>
+              <li>Este proyecto combina aplicaciones de visualización 3D creadas por investigadores en UC Davis. La arena se moldea con la mano y el paisaje cobra vida en tiempo real, mediante la proyección de un mapa topográfico, contorno de las topográficas y agua simulada.</li>
+            </ul>
+            <ul className="list">
               <li>Aplicación y Pagina Web para Restaurant "Las Terrazas Cocholgue" - (2017)</li>
               <li>Aplicación web para la administración del restaurant y Aplicación android tipo WebView para tablets que ocupan los garzones o meseros. La aplicación se conecta con las impresoras termicas / POS para enviar el pedido a la cocina y ademas obtener el recibo para el cliente.</li>
             </ul>
@@ -80,12 +84,20 @@ export default class Main extends Component {
               <li>Universidad Catolica de Temuco 2018 - 2019</li>
             </ul>
             <ul className="list">
+              <li>AYUDANTE CERTIFICADO NIVEL AVANZADO UC TEMUCO</li>
+              <li>Universidad Catolica de Temuco - 05/09/2018 al 05/10/2018</li>
+            </ul>
+            <ul className="list">
               <li>INVESTIGADOR COLABORADOR EN PROYECTO FONDECYT 11170583 UCT</li>
               <li>Universidad Catolica de Temuco - 07/03/2018 al 01/08/2018</li>
             </ul>
             <ul className="list">
               <li>AYUDANTIA EN INTRODUCCIÓN A LOS SISTEMAS DE BASE DE DATOS. UCT</li>
               <li>Universidad Catolica de Temuco - 07/03/2018 al 01/08/2018</li>
+            </ul>
+            <ul className="list">
+              <li>AYUDANTE CERTIFICADO NIVEL BASICO UC TEMUCO</li>
+              <li>Universidad Catolica de Temuco - 05/09/2017 al 15/11/2017</li>
             </ul>
             <ul className="list">
               <li>CLASES DE REFORZAMIENTO DE MATEMÁTICA PARA QUINTO BÁSICO.</li>
@@ -104,6 +116,10 @@ export default class Main extends Component {
           <hr className="divisor"/>
           <h3 className="sub-title"><span>Premios:</span> </h3>
           <p className="copy">
+            <ul className="list">
+              <li>DESAFIO UCT (2018)</li>
+              <li>Primer lugar ($3M) de concurso universitario abierto, con software de reconocimiento de placas patentes en dispositivos moviles.</li>
+            </ul>
             <ul className="list">
               <li>HACKAMERICAS (2018)</li>
               <li>Finalista en Hackamericas Chile con software de reconocimiento de placas patentes en dispositivos moviles.</li>
