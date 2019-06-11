@@ -4,19 +4,31 @@ import React, { Component } from 'react';
 import './info.css';
 
 //Images
-import avatar from '../../images/me_03.jpg';
+import avatar from '../../images/me_04.png';
 
 export default class Info extends Component {
   render() {
     return (
-      <div className="container-info fadeInLeft animated">
+      <div className="container-info fadeInDown animated">
         <div className="inner-block">
           <div className="content-block">
             <img className="avatar" src={avatar} role="presentation" alt="Felipe Schneeberger"/>
-            <h1>Hola <span role="img" aria-label="Hand">🖖</span>, soy "Shompi",</h1>
-            <h3>un chileno apasionado por la <span>inteligencia artificial</span>,<br/> <span>desarrollar full stack</span>, estudiando <br/> <span>ingeniería civil en informática</span> en Temuco, Chile.</h3>
-            <div className="content-button">
-              <a className="main-button" href="mailto:itsshompi@gmail.com">Contactame!</a>
+            <div className="principal">
+              <h1>Felipe Schneeberger</h1>
+              <h2>Ingeniero Civil en Informática</h2>
+              <h3>Mención Tecnologias de la Información</h3>
+
+              <h4>
+                <span>Desarrollador Backend</span>,<br/>
+                apasionado por la <span>Inteligencia Artificial</span>,
+                <br/> de Temuco, Chile.
+              </h4>
+              
+              <p>
+                Puedes contactarme en: 
+                <br/>
+                <span>itsshompi@gmail.com</span>
+              </p>
             </div>
             <div className="footer">
               <p>Redes Sociales</p>

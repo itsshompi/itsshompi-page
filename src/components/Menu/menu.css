@@ -1,0 +1,19 @@
+.container-menu {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  min-height: 490px;
+  background: #181818;
+}
+
+@media (min-width: 768px) {
+  .container-menu {
+    position: fixed;
+    left: calc(40%); 
+    top: 0;
+    height: 100%;
+    width: 50px;
+  }
+}
+
+

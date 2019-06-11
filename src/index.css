@@ -1,5 +1,29 @@
+* {
+  margin:0;
+  padding:0;
+}
+html {
+  height:100%;
+  width:100%;
+}
+body {
+  height:100%;
+  width:100%;
+}
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Inconsolata', monospace;
+}
+
+.copy {
+  margin: 10px 0px;
+  font-weight: normal;
+  line-height: 26px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.copy span {
+  font-weight: bold;
 }
