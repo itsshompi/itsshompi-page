@@ -1,0 +1,35 @@
+
+.shompi_section_content .about_short_contact_wrap {
+  width: 100%;
+  height: auto;
+  clear: both;
+  float: left;
+  margin: 25px 0px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.shompi_section_content .about_short_contact_wrap ul {
+  margin: 0px;
+  list-style-type: none;
+}
+
+.shompi_section_content .about_short_contact_wrap ul li {
+  margin: 0px 0px 2px 0px;
+  width: 50%;
+  float: left;
+}
+
+.shompi_section_content .about_short_contact_wrap ul li span {
+  color: #000000;
+  font-family: "Saira";
+}
+
+.shompi_section_content ul li label {
+  font-family: "Saira";
+  font-weight: 700;
+  color: #000;
+  min-width: 85px;
+  display: inline-block;
+}

@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-import Info from './Info/info';
-import AboutMe from './AboutMe/main';
+import LeftSide from './leftside/main';
+import RightSide from './rightside/main';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <Info/>
-        <AboutMe/>
+        <LeftSide/>
+        <RightSide/>
       </div>
     );
   }

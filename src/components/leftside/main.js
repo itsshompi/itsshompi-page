@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 //CSS
-import './info.css';
+import './main.css';
 
 //Images
 import avatar from '../../images/me_04.png';
 
-export default class Info extends Component {
+export default class LeftSide extends Component {
   render() {
     return (
       <div className="container-info fadeInDown animated">

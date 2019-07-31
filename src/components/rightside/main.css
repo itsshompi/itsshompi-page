@@ -1,0 +1,94 @@
+div {
+  background: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  outline: none;
+}
+
+.container-main {
+  font-family: 'Poppins', sans-serif;
+  background: #ffffff;
+  padding-top: 85px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 60%;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
+}
+
+.shompi_section{
+  width: 100%;
+  height: auto;
+  clear: both;
+  float: left;
+}
+
+.shompi_section_content{
+  margin: 0px 90px 100px;
+  overflow: auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+.shompi_main_title{
+  width: 100%;
+  height: auto;
+  clear: both;
+  float: left;
+  padding-bottom: 25px;
+}
+
+.shompi_main_title span {
+  text-transform: uppercase;
+  color: #E9204F;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Saira', sans-serif;
+}
+
+.shompi_main_title h3 {
+  color: #000;
+  line-height: 1;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: 'Saira', sans-serif;
+  font-size: 30px;
+}
+
+.shompi_section {
+  width: 100%;
+  height: auto;
+  clear: both;
+  float: left;
+  display: flex;
+}
+
+.shompi_section_content p {
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  line-height: 2.2;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .container-main {
+    padding-top: 0px;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+  }
+  .shompi_section_content{
+    margin: 75px 50px;
+  }
+  .shompi_main_title{
+    text-align: center;
+  }
+}
