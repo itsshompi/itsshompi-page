@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
-import ModalImage from 'react-modal-image'
 
 //CSS
 import './main.css';
 //Images
-import timeline from '../../images/timeline.png';
 
 //Projects
 import bautista from '../../images/projects/bautista.png';
@@ -16,8 +14,6 @@ import las_terrazas from '../../images/projects/las_terrazas.png';
 import ftemuco from '../../images/projects/ftemuco.png';
 import cloudeducation from '../../images/projects/CloudEducation.png';
 import s3e2 from '../../images/projects/s3e2.png';
-import image_black from '../../images/black.jpg';
-import me from '../../images/me-full.jpg';
 
 export default class Main extends Component {
   render() {
@@ -26,85 +22,54 @@ export default class Main extends Component {
         <section className="shompi_secction">
           <div className="shompi_about">
             <div className="shompi_main_title">
-              <span>Información</span>
-              <h3>Sobre Mi</h3>
+              <span>Information</span>
+              <h3>About Me</h3>
             </div>
-            <div className="parts">
-              <div className="leftpart">
-                <div className="about_image">
-                  <img src={image_black}/>
-                  <div className="main_image"></div>
-                </div>
-              </div>
-              <div className="rightpart">
-                <div className="name_holder">
-                  <p>I'm Felipe Schneeberger and 
-                    <span className="jetix_animate_text"> Freelancer</span>
-                    <span className="typed-cursor"></span>
-                  </p>
-                </div>
-                <div className="texts">
-									<p>My name is <strong>John Albertson</strong> and I am a creative person from New York,USA. My main professional focuses are: UX/UI design, and Web development. For the past year I have been working as a User experience and User Interface designer in a large software company in Los Angeles. My primary tasks include: designing user flows, wireframes, analyzing user data.</p>
-								</div>
-                <div className="about_short_contact_wrap">
-									<ul>
-										<li>
-											<span><label>Birthday:</label> 09.12.1988</span>
-										</li>
-										<li>
-											<span><label>Age:</label> 31</span>
-										</li>
-										<li>
-											<span><label>City:</label> New York, USA</span>
-										</li>
-										<li>
-											<span><label>Interests:</label> Football, Tennis</span>
-										</li>
-										<li>
-											<span><label>Study:</label> York University</span>
-										</li>
-										<li>
-											<span><label>Degree:</label> Master</span>
-										</li>	
-										<li>
-											<span><label>Website:</label> <a href="#">www.example.com</a></span>
-										</li>
-										<li>
-											<span><label>Mail:</label> <a href="mailto:example@gmail.com">example@gmail.com</a></span>
-										</li>
-										<li>
-											<span><label>Phone:</label> <a href="#">+55 277 100 09 09</a></span>
-										</li>
-										<li>
-											<span><label>Twitter:</label> <a href="#">@myusername</a></span>
-										</li>
-									</ul>
-								</div>
-              </div>
+            <div className="texts">
+              
+              <p>My name is <strong>Felipe Schneeberger</strong> and I am a creative person from Temuco, Chile. 
+              My main professional focuses are: Backend development, and Artificial Intelligence. </p>
+              
+              <p>I have skills to coordinate teams and I like being able to be a real contribution within 
+              these, besides this I can work in multiple tasks in an organized way and respecting the 
+              deadlines.</p>
+
+              <p>I have a great versatility adaptable to the different programming languages used in the labor market, 
+              although I have a specialization in the following technologies: 
+              <strong>Go (Golang), Python, NodeJS, MongoDB, MariaDB, PostgreSQL.</strong></p>
+
+              <p>Today I find myself as an independent worker and as a research assistant in the 
+              FONDECYT Project No. 11170583 of the Universidad Catolica de Temuco.</p>
+
             </div>
-            <p className="copy">
-              Soy un desarrollador de backend, de la ciudad de Temuco, donde siempre estoy en una búsqueda para 
-              aprender nuevas cosas, especialmente en el área de Inteligencia Artificial. 
-            </p>
-            <p className="copy">
-              Tengo una gran versatilidad adaptándome a los diferentes lenguajes de programación utilizados 
-              en el mercado laboral, aunque tengo una especialización en las siguientes 
-              tecnologías: <span>Go (Golang), Python, NodeJS, MongoDB, MariaDB, PostgreSQL.</span>
-            </p>
-            <p className="copy">
-              Tengo habilidades para coordinar equipos y me gusta poder ser una contribución real dentro de éstos, 
-              además de esto puedo trabajar en múltiples tareas de forma organizada y respetando los deadlines.
-            </p>
-            <p className="copy">
-              Hoy me encuentro como trabajador <span>Freelance</span> y como 
-              asistente en <span>Proyecto FONDECYT Nº 11170583</span> de la Universidad Catolica de Temuco.
-            </p>
-          
-            <div className="timeline">
-              <h2>
-                  linea de tiempo/>
-              </h2>
-              <img className="timeline" src={timeline} />
+
+            <div className="about_short_contact_wrap">
+              <ul>
+                <li>
+                  <span><label>Age:</label> 25</span>
+                </li>
+                <li>
+                  <span><label>City:</label> Temuco, Chile</span>
+                </li>
+                <li>
+                  <span><label>Interests:</label> Climbing & Mathematics </span>
+                </li>
+                <li>
+                  <span><label>Study:</label> U. Catolica de Temuco</span>
+                </li>
+                <li>
+                  <span><label>Website:</label> <a href="https://github.com/itsshompi" target="_blank" rel="noopener noreferrer">itsshompi.github.io</a></span>
+                </li>
+                <li>
+                  <span><label>Mail:</label> <a href="mailto:itsshompi@gmail.com">itsshompi@gmail.com</a></span>
+                </li>
+                <li>
+                  <span><label>Twitter:</label> <a href="https://twitter.com/itsshompi" target="_blank" rel="noopener noreferrer">@itsshompi</a></span>
+                </li>
+                <li>
+                  <span><label>Instagram:</label> <a href="https://www.instagram.com/itsshompi" target="_blank" rel="noopener noreferrer">@itsshompi</a></span>
+                </li>
+              </ul>
             </div>
 
             <div className="works">

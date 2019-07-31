@@ -14,33 +14,27 @@ export default class Info extends Component {
           <div className="content-block">
             <img className="avatar" src={avatar} role="presentation" alt="Felipe Schneeberger"/>
             <div className="principal">
-              <h1>Felipe Schneeberger</h1>
-              <h2>Ingeniero Civil en Informática</h2>
-              <h3>Mención Tecnologias de la Información</h3>
-
+              <h1>FELIPE SCHNEEBERGER</h1>
+              <h2>COMPUTER SCIENCE ENGINEER</h2>
+              <h3>MENTION: INFORMATION TECHNOLOGIES</h3>
               <h4>
-                <span>Desarrollador Backend</span>,<br/>
-                apasionado por la <span>Inteligencia Artificial</span>,
-                <br/> de Temuco, Chile.
+                <span>Backend Developer</span>,<br/>
+                 Passionate About <span>Artificial Intelligence</span>,
+                 <br/> From Temuco, Chile.
               </h4>
-              
               <p>
-                Puedes contactarme en: 
+                You can contact me at: 
                 <br/>
                 <span>itsshompi@gmail.com</span>
               </p>
             </div>
             <div className="footer">
-              <p>Redes Sociales</p>
+              <p>Social Networks</p>
               <ul>
                 <li><a href="https://github.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
-                <li><a href="https://www.youtube.com/channel/UCpsVc3k595ADJaHoC1s6zWA" target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a></li>
-                <li><a href="https://twitter.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a></li>
                 <li><a href="https://www.instagram.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
-                <li><a href="https://www.facebook.com/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
-                <li><a href="https://twitch.tv/itsshompi" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitch"></i></a></li>
               </ul>
-              <p>Creado con <i className="fa fa-heart"></i> en Temuco, Chile.</p>
+              <p>Created with <i className="fa fa-heart"></i> in Temuco, Chile.</p>
             </div>
           </div>
         </div>

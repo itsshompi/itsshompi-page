@@ -7,22 +7,23 @@ div {
   outline: none;
 }
 
-
 .container-main {
-  display: inline-block;
   background: #ffffff;
-  width: calc(70%);
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 60%;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
 }
-@media (min-width: 768px) {
+
+@media (max-width: 768px) {
   .container-main {
-    position: fixed;
-    top: 0;
-    right: 0;
-    height: 100%;
-    width: calc(70%);
-    overflow-y: scroll;
-    -webkit-overflow-scrolling: touch;
-    overflow-x: hidden;
+    width: 100%;
+    display: inline-block;
+    position: relative;
   }
 }
 
@@ -34,7 +35,7 @@ div {
 }
 
 .shompi_about{
-  margin: 75px 30px;
+  margin: 75px 90px;
   overflow: auto;
   font-family: 'Inconsolata', monospace;
 }
@@ -71,61 +72,19 @@ div {
   float: left;
   display: flex;
 }
-.shompi_about .parts .leftpart {
-  width: 40%;
-  height: auto;
-}
 
-.shompi_about .parts .leftpart .about_image {
-  position: relative;
-  border-radius: 15px;
-}
 
-.shompi_about .parts .leftpart .about_image img {
-  min-width: 100%;
-  border-radius: 15px;
-  width: 100%;
-}
 
-.shompi_about .parts .leftpart .main_image {
-  position: absolute;
-  width: 100%;
-  top: 0px;
-  bottom: 0px;
-  right: 0px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-image: url(../../images/me-full.jpg);
-  border-radius: 15px;
-}
 
-.shompi_about .parts .rightpart {
-  width: 60%;
-  height: auto;
-  padding-left: 40px;
-  position: relative;
-  top: -15px;
-}
-
-.shompi_about .parts .rightpart .name_holder {
-  margin-bottom: 7px;
-}
-
-.shompi_about .parts .rightpart .name_holder p {
-  color: #000;
-  font-family: 'Saira', sans-serif;
-  font-size: 28px;
-  font-weight: 500;
-}
-
-.shompi_about .parts .rightpart p {
+.shompi_about p {
   color: #000;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
   line-height: 2.2;
   letter-spacing: 0.5px;
   font-weight: 400;
+  margin-bottom: 10px;
+  text-align: justify;
 }
 
 .shompi_about .about_short_contact_wrap {
@@ -133,7 +92,7 @@ div {
   height: auto;
   clear: both;
   float: left;
-  margin-bottom: 28px;
+  margin: 25px 0px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;

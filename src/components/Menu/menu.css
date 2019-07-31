@@ -2,17 +2,18 @@
   display: inline-block;
   position: relative;
   width: 100%;
-  min-height: 490px;
-  background: #181818;
+  top: 0;
+  right: 0;
+  background: #dadada;
 }
 
 @media (min-width: 768px) {
   .container-menu {
-    position: fixed;
-    left: calc(40%); 
+    position: fixed; 
     top: 0;
-    height: 100%;
-    width: 50px;
+    right: 0;
+    height: 50px;
+    width: 100%;
   }
 }
 
