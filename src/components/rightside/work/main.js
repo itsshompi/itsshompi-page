@@ -20,7 +20,7 @@ export default class Work extends Component {
               <li>I work as a development leader with the SCRUM methodology, in turn I work in the 
                 development of our Application Programming Interface (API) that helps to obtain data 
                 from schools in Chile for different years built using Go (Golang), MongoDB, Python</li>
-                <li><img width="100%" className="img-work"/></li>
+                <li><img width="100%" alt="S3E2" className="img-work"/></li>
             </ul>
 
             <ul className="list">
@@ -33,7 +33,7 @@ export default class Work extends Component {
                 of the CloudEducation project, which aimed to reduce the work of teachers, granting plans 
                 and management mechanisms for the educational complex.
               </li>
-              <li><img width="100%" className="img-work"/></li>
+              <li><img width="100%" alt="Random Network LTDA"className="img-work"/></li>
             </ul>
           </div>
         </div>

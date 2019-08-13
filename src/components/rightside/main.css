@@ -29,7 +29,7 @@ div {
 }
 
 .shompi_section_content{
-  margin: 0px 90px 100px;
+  margin: 0px 90px 50px;
   overflow: auto;
   font-family: 'Poppins', sans-serif;
 }
@@ -86,7 +86,7 @@ div {
     position: relative;
   }
   .shompi_section_content{
-    margin: 75px 50px;
+    margin: 50px 50px 20px;
   }
   .shompi_main_title{
     text-align: center;

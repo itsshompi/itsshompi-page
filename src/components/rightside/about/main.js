@@ -28,34 +28,6 @@ export default class About extends Component {
               FONDECYT Project No. 11170583 of the Universidad Catolica de Temuco.
             </p>
           </div>
-          <div className="about_short_contact_wrap">
-            <ul>
-              <li>
-                <span><label>Age:</label> 25</span>
-              </li>
-              <li>
-                <span><label>City:</label> Temuco, Chile</span>
-              </li>
-              <li>
-                <span><label>Interests:</label> Climbing & Mathematics </span>
-              </li>
-              <li>
-                <span><label>Study:</label> U. Catolica de Temuco</span>
-              </li>
-              <li>
-                <span><label>Website:</label> <a href="https://github.com/itsshompi" target="_blank" rel="noopener noreferrer">itsshompi.github.io</a></span>
-              </li>
-              <li>
-                <span><label>Mail:</label> <a href="mailto:itsshompi@gmail.com">itsshompi@gmail.com</a></span>
-              </li>
-              <li>
-                <span><label>Twitter:</label> <a href="https://twitter.com/itsshompi" target="_blank" rel="noopener noreferrer">@itsshompi</a></span>
-              </li>
-              <li>
-                <span><label>Instagram:</label> <a href="https://www.instagram.com/itsshompi" target="_blank" rel="noopener noreferrer">@itsshompi</a></span>
-              </li>
-            </ul>
-          </div>
         </div>
       </section>
     );

@@ -6,6 +6,7 @@ import './main.css';
 import About from './about/main';
 import Work from './work/main';
 import Freelance from './freelance/main';
+import Awards from './awards/main';
 
 export default class RightSide extends Component {
   render() {
@@ -14,6 +15,7 @@ export default class RightSide extends Component {
         <About/>
         <Work/>
         <Freelance/>
+        <Awards/>
       </div>
     );
   }
