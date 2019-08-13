@@ -13,7 +13,6 @@ export default class RightSide extends Component {
     return (
       <div className="container-main fadeInRight animated">
         <About/>
-        <Awards/>
       </div>
     );
   }
