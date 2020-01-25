@@ -15,12 +15,13 @@ export default class LeftSide extends Component {
             <img className="avatar" src={avatar} role="presentation" alt="Felipe Schneeberger"/>
             <div className="principal">
               <h1>FELIPE SCHNEEBERGER</h1>
-              <h2>COMPUTER SCIENCE ENGINEER</h2>
-              <h3>MENTION: INFORMATION TECHNOLOGIES</h3>
+              <h2>Computer Science Engineer</h2>
+              <h3>Information Technologies</h3>
               <h4>
-                <span>Backend Developer</span>,<br/>
-                 Passionate About <span>Artificial Intelligence</span>,
-                 <br/> From Temuco, Chile.
+                <span>Backend Developer</span><br/>
+                and <br/>
+                <span>Machine Learning Developer</span>
+                <br/> From Temuco, Chile.
               </h4>
               <p>
                 You can contact me at: 

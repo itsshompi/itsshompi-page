@@ -26,19 +26,21 @@
   color: #f0f0f0;
 }
 .principal h1 {
-  font-size: 34px;
+  font-size: 30px;
 }
 
 .principal h2{
   font-size: 18px;
+  margin-top: 5px;
 }
 
 .principal h3 {
-  font-size: 12px;
+  font-size: 14px;
+  margin-top: 5px;
 }
 
 .principal h4 {
-  margin: 15px 0px;
+  margin: 30px 0px;
   font-size: 16px;
 }
 

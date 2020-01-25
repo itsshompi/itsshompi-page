@@ -24,12 +24,10 @@ export default class Freelance extends Component {
               </li>
               <li>
                 Used technology: <br/>
-                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
-                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
-                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
-                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://nodejs.org/" target="blank__"><i class="devicon-nodejs-plain colored"></i></a>
                 <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
                 <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.mysql.com/" target="blank__"><i class="devicon-mysql-plain colored"></i></a>
               </li>
             </ul>
             <ul className="list">
@@ -42,12 +40,9 @@ export default class Freelance extends Component {
               </li>
               <li>
                 Used technology: <br/>
-                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
-                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
-                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
-                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
-                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
                 <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.w3.org/Style/CSS/" target="blank__"><i class="devicon-css3-plain colored"></i></a>
+                <a href="https://www.w3.org/html/" target="blank__"><i class="devicon-html5-plain colored"></i></a>
               </li>
             </ul>
 
@@ -63,12 +58,10 @@ export default class Freelance extends Component {
               </li>
               <li>
                 Used technology: <br/>
-                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
-                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
-                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
-                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
-                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.php.net/" target="blank__"><i class="devicon-php-plain colored"></i></a>
                 <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.mysql.com/" target="blank__"><i class="devicon-mysql-plain colored"></i></a>
+                <a href="https://httpd.apache.org/" target="blank__"><i class="devicon-apache-plain colored"></i></a>
               </li>
             </ul>
             <ul className="list">
@@ -82,12 +75,9 @@ export default class Freelance extends Component {
               </li>
               <li>
                 Used technology: <br/>
-                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
-                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
-                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
-                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
-                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
                 <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.w3.org/Style/CSS/" target="blank__"><i class="devicon-css3-plain colored"></i></a>
+                <a href="https://www.w3.org/html/" target="blank__"><i class="devicon-html5-plain colored"></i></a>
               </li>
             </ul>
             <ul className="list">
@@ -100,12 +90,10 @@ export default class Freelance extends Component {
               </li>
               <li>
                 Used technology: <br/>
-                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
-                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
-                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
-                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://nodejs.org/" target="blank__"><i class="devicon-nodejs-plain colored"></i></a>
                 <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
                 <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.postgresql.org/" target="blank__"><i class="devicon-postgresql-plain colored"></i></a>
               </li>
             </ul>
             <ul className="list">
