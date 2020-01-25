@@ -22,6 +22,15 @@ export default class Freelance extends Component {
               envíos de productos, documentando cuando es que se recepcionan los documentos necesarios, y además 
               establecer fechas de estimación para el arribo de cargar enviadas en los buques.
               </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+              </li>
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
@@ -30,6 +39,15 @@ export default class Freelance extends Component {
               <li>
               El proyecto fue realizado con javascript. La aplicación consiste en poder realizar un cálculo de la 
               potencia necesaria de Watts que el cliente requiere y poder ofrecer el más conveniente para el caso.
+              </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
               </li>
             </ul>
 
@@ -43,6 +61,15 @@ export default class Freelance extends Component {
               cuales puedan realizar sus cotizaciones de todos los productos que existen en la tienda, enviando un 
               correo electrónico cuando la cotización sea aprobada por el administrador.
               </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+              </li>
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
@@ -53,6 +80,15 @@ export default class Freelance extends Component {
               La aplicación consiste en poder calcular las cuotas con intereses si es que corresponde, además de poder 
               agregar beneficios a las cuotas.
               </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+              </li>
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
@@ -61,6 +97,15 @@ export default class Freelance extends Component {
               <li>
               Este proyecto fue realizado con PHP y MySQL. La aplicación consiste en poder recepcionar la ficha 
               dental del paciente, ya sea datos generales, anamnesis general, odontograma visual, documentos.
+              </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
               </li>
             </ul>
             <ul className="list">
@@ -71,7 +116,17 @@ export default class Freelance extends Component {
                 para la aplicación móvil. El sitio web fue construido con HTML5 estilo OnePage. La aplicación 
                 consiste en poder mejorar los tiempos de la toma de pedidos, de tal forma que los pedidos eran 
                 recibidos por las tablets para posteriormente enviar la solicitud al servidor y este enviará los 
-                pedidos a las impresoras POS que se encontraban en la cocina. </li>
+                pedidos a las impresoras POS que se encontraban en la cocina. 
+              </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://www.php.net/" target="blank__"><i class="devicon-php-plain colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.mysql.com/" target="blank__"><i class="devicon-mysql-plain colored"></i></a>
+                <a href="https://httpd.apache.org/" target="blank__"><i class="devicon-apache-plain colored"></i></a>
+                <a href="https://www.android.com/" target="blank__"><i class="devicon-android-plain colored"></i></a>
+                <a href="https://www.java.com/" target="blank__"><i class="devicon-java-plain colored"></i></a>
+              </li>
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
@@ -81,6 +136,13 @@ export default class Freelance extends Component {
               Este proyecto fue realizado con PHP para la aplicación web. La aplicación consiste recepcionar 
               los pedidos de manera telefónica en el software, y poder enviarlos mediante impresoras POS a la 
               cocina. Además permite obtener estadísticas sobre los distintos pedidos en rangos de fechas.
+              </li>
+              <li>
+                Used technology: <br/>
+                <a href="https://www.php.net/" target="blank__"><i class="devicon-php-plain colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+                <a href="https://www.mysql.com/" target="blank__"><i class="devicon-mysql-plain colored"></i></a>
+                <a href="https://httpd.apache.org/" target="blank__"><i class="devicon-apache-plain colored"></i></a>
               </li>
             </ul>
           </div>

@@ -22,11 +22,11 @@ export default class Awards extends Component {
             <ul className="list">
               <li>September 2018</li>
               <li>HACKAMERICAS CHILE BY Y4PT</li>
-              <li>First Regional Place</li>
+              <li>First Regional Place and National Finalist</li>
               <li>Finalista en Hackamericas Chile con software de reconocimiento de placas patentes en dispositivos moviles.</li>
             </ul>
             <ul className="list">
-              <li>Junary 2018</li>
+              <li>Junary 2015</li>
               <li>HACELERA HACK - LEAN STARTUP</li>
               <li>First place and entry to business incubator (Incubatec UFRO)</li>
               <li>Finalista en Hackamericas Chile con software de reconocimiento de placas patentes en dispositivos moviles.</li>
