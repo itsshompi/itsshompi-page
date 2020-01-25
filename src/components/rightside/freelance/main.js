@@ -15,8 +15,8 @@ export default class Freelance extends Component {
           <div className="texts">
             <ul className="list">
               <li>04/2019 - 06/2019</li>
-              <li>Aplicación Web</li>
-              <li>AgroTop (Temuco, Chile)</li>
+              <li>Web Application</li>
+              <li>Empresas AgroTop (Temuco, Chile)</li>
               <li>
               El proyecto fue realizado con Node.JS y MySQL. La aplicación consiste en poder generar el proceso de 
               envíos de productos, documentando cuando es que se recepcionan los documentos necesarios, y además 
@@ -25,7 +25,7 @@ export default class Freelance extends Component {
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Aplicación Web</li>
+              <li>Web Application</li>
               <li>FORD (Temuco, Chile)</li>
               <li>
               El proyecto fue realizado con javascript. La aplicación consiste en poder realizar un cálculo de la 
@@ -35,7 +35,7 @@ export default class Freelance extends Component {
 
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Sistema de cotización online</li>
+              <li>Web Application</li>
               <li>FrioCid (Temuco, Chile)</li>
               <li>
               Este proyecto fue realizado con PHP y una integración con el CMS Prestashop para poder obtener los
@@ -46,7 +46,7 @@ export default class Freelance extends Component {
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Aplicación de Escritorio.</li>
+              <li>Desktop Application</li>
               <li>Colegio Bautista (Temuco, Chile)</li>
               <li>
               Este proyecto fue desarrollado con Javascript y Electrón para convertir la aplicación en una de escritorio. 
@@ -56,7 +56,7 @@ export default class Freelance extends Component {
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Aplicación Web</li>
+              <li>Web Application</li>
               <li>DentalApp, Servicios Médicos Dentales (Temuco, Chile)</li>
               <li>
               Este proyecto fue realizado con PHP y MySQL. La aplicación consiste en poder recepcionar la ficha 
@@ -65,7 +65,7 @@ export default class Freelance extends Component {
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Aplicación web, móvil y sitio web.</li>
+              <li>Web Application - Android Application - Web Site.</li>
               <li>Restaurant las Terrazas (Tomé, Chile)</li>
               <li>Este proyecto fue realizado con PHP para la aplicación web y se realizó un WebView con Android 
                 para la aplicación móvil. El sitio web fue construido con HTML5 estilo OnePage. La aplicación 
@@ -75,7 +75,7 @@ export default class Freelance extends Component {
             </ul>
             <ul className="list">
               <li>04/2016 - 06/2016</li>
-              <li>Aplicación web</li>
+              <li>Web Application</li>
               <li>Fusion Delivery (Temuco, Chile)</li>
               <li>
               Este proyecto fue realizado con PHP para la aplicación web. La aplicación consiste recepcionar 
@@ -83,7 +83,6 @@ export default class Freelance extends Component {
               cocina. Además permite obtener estadísticas sobre los distintos pedidos en rangos de fechas.
               </li>
             </ul>
-            
           </div>
         </div>
       </section>

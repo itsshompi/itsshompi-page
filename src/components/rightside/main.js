@@ -14,6 +14,7 @@ export default class RightSide extends Component {
       <div className="container-main fadeInRight animated">
         <About/>
         <Work/>
+        <Freelance/>
         <Awards/>
       </div>
     );

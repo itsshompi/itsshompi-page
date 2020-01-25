@@ -20,7 +20,15 @@ export default class Work extends Component {
               <li>I work as a development leader with the SCRUM methodology, in turn I work in the 
                 development of our Application Programming Interface (API) that helps to obtain data 
                 from schools in Chile for different years built using Go (Golang), MongoDB, Python</li>
-                <li><img width="100%" alt="S3E2" className="img-work"/></li>
+              <li>
+                Used technology: <br/>
+                <a href="https://golang.org/" target="blank__"><i class="devicon-go-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://reactjs.org/" target="blank__"><i class="devicon-react-original colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>
+              </li>
             </ul>
 
             <ul className="list">
@@ -33,7 +41,15 @@ export default class Work extends Component {
                 of the CloudEducation project, which aimed to reduce the work of teachers, granting plans 
                 and management mechanisms for the educational complex.
               </li>
-              <li><img width="100%" alt="Random Network LTDA"className="img-work"/></li>
+              <li>
+                Used technology: <br/>
+                <a href="https://www.php.net/" target="blank__"><i class="devicon-php-plain colored"></i></a>
+                <a href="https://laravel.com/" target="blank__"><i class="devicon-laravel-plain colored"></i></a>
+                <a href="https://www.ruby-lang.org" target="blank__"><i class="devicon-ruby-plain colored"></i></a>
+                <a href="https://rubyonrails.org/" target="blank__"><i class="devicon-rails-plain colored"></i></a>
+                <a href="https://www.postgresql.org/" target="blank__"><i class="devicon-postgresql-plain colored"></i></a>
+                <a href="https://www.mysql.com/" target="blank__"><i class="devicon-mysql-plain colored"></i></a>
+              </li>
             </ul>
           </div>
         </div>
