@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-//CSS
-import './main.css';
 
 export default class Awards extends Component {
   render() {

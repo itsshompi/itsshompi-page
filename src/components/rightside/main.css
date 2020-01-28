@@ -26,10 +26,14 @@ div {
   height: auto;
   clear: both;
   float: left;
+  margin: 0px 0px 50px;
+}
+.shompi_section_last{
+  margin-bottom: 125px;
 }
 
 .shompi_section_content{
-  margin: 0px 90px 50px;
+  margin: 0px 90px 0px;
   overflow: auto;
   font-family: 'Poppins', sans-serif;
 }

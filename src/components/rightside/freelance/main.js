@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 
-//CSS
-import './main.css';
-
 export default class Freelance extends Component {
   render() {
     return (
