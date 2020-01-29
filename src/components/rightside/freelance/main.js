@@ -15,9 +15,11 @@ export default class Freelance extends Component {
               <li>Web Application</li>
               <li>Empresas AgroTop (Temuco, Chile)</li>
               <li>
-              El proyecto fue realizado con Node.JS y MySQL. La aplicación consiste en poder generar el proceso de 
-              envíos de productos, documentando cuando es que se recepcionan los documentos necesarios, y además 
-              establecer fechas de estimación para el arribo de cargar enviadas en los buques.
+              This web application allows you to generate the process of sending different products to different countries. 
+              It generates a timeline with the necessary documentary processes for the products that are manufactured. 
+              The time limits for each documentary process are calculated based on previous times. 
+              These documentary processes are generated based on a date established by the customer that requires the 
+              product and the departure and arrival of the cargo ship for the different destination countries is calculated.
               </li>
               <li>
                 Used technology: <br/>
@@ -32,8 +34,9 @@ export default class Freelance extends Component {
               <li>Web Application</li>
               <li>FORD (Temuco, Chile)</li>
               <li>
-              El proyecto fue realizado con javascript. La aplicación consiste en poder realizar un cálculo de la 
-              potencia necesaria de Watts que el cliente requiere y poder ofrecer el más conveniente para el caso.
+              This web application allows the user to choose from a variety of energy generators that best suits their needs. 
+              The user can complete what types of appliances are going to be connected to the power generator and this calculates 
+              an approximate of the watts needed to recommend a product.
               </li>
               <li>
                 Used technology: <br/>
@@ -48,10 +51,11 @@ export default class Freelance extends Component {
               <li>Web Application</li>
               <li>FrioCid (Temuco, Chile)</li>
               <li>
-              Este proyecto fue realizado con PHP y una integración con el CMS Prestashop para poder obtener los
-              datos de los productos e imágenes. La aplicación consiste en poder tener un registro de usuarios los 
-              cuales puedan realizar sus cotizaciones de todos los productos que existen en la tienda, enviando un 
-              correo electrónico cuando la cotización sea aprobada por el administrador.
+              This web application consists of being able to extract the products that exist in the CRM database of Prestashop 
+              and be able to generate a quotation system in line with this data. The user must register in the application to 
+              request a quote. The user selects the required products and then be sent to the application administrator. 
+              The administrator receives the request and the prices of the requested products are completed. Finally, 
+              the quote is sent to the user by email and with a registration in the application.
               </li>
               <li>
                 Used technology: <br/>
@@ -66,9 +70,10 @@ export default class Freelance extends Component {
               <li>Desktop Application</li>
               <li>Colegio Bautista (Temuco, Chile)</li>
               <li>
-              Este proyecto fue desarrollado con Javascript y Electrón para convertir la aplicación en una de escritorio. 
-              La aplicación consiste en poder calcular las cuotas con intereses si es que corresponde, además de poder 
-              agregar beneficios a las cuotas.
+              This desktop application consists of being able to establish interest for unpaid installments as well as to establish 
+              future interest for check payment cases. The application allows to establish student fees reduction. The values ​​of 
+              the tariffs are previously defined as well as the interest rate. These can be modified by the user who is operating 
+              the application.
               </li>
               <li>
                 Used technology: <br/>
@@ -82,8 +87,8 @@ export default class Freelance extends Component {
               <li>Web Application</li>
               <li>DentalApp, Servicios Médicos Dentales (Temuco, Chile)</li>
               <li>
-              Este proyecto fue realizado con PHP y MySQL. La aplicación consiste en poder recepcionar la ficha 
-              dental del paciente, ya sea datos generales, anamnesis general, odontograma visual, documentos.
+              The web application consists of being able to receive the patient's dental record, personal data, general history, 
+              visual odontogram, documents such as radiographs, reports or others.
               </li>
               <li>
                 Used technology: <br/>
@@ -97,11 +102,10 @@ export default class Freelance extends Component {
               <li>04/2016 - 06/2016</li>
               <li>Web Application - Android Application - Web Site.</li>
               <li>Restaurant las Terrazas (Tomé, Chile)</li>
-              <li>Este proyecto fue realizado con PHP para la aplicación web y se realizó un WebView con Android 
-                para la aplicación móvil. El sitio web fue construido con HTML5 estilo OnePage. La aplicación 
-                consiste en poder mejorar los tiempos de la toma de pedidos, de tal forma que los pedidos eran 
-                recibidos por las tablets para posteriormente enviar la solicitud al servidor y este enviará los 
-                pedidos a las impresoras POS que se encontraban en la cocina. 
+              <li>
+                The web application consists of being able to place orders using tablets so that these orders are sent directly 
+                to the kitchen where the order is printed to inform the cooks. The application has an administration system to 
+                be able to make the respective collections, as well as the profits for each waiter.
               </li>
               <li>
                 Used technology: <br/>
@@ -118,9 +122,9 @@ export default class Freelance extends Component {
               <li>Web Application</li>
               <li>Fusion Delivery (Temuco, Chile)</li>
               <li>
-              Este proyecto fue realizado con PHP para la aplicación web. La aplicación consiste recepcionar 
-              los pedidos de manera telefónica en el software, y poder enviarlos mediante impresoras POS a la 
-              cocina. Además permite obtener estadísticas sobre los distintos pedidos en rangos de fechas.
+              The web application consists of being able to make the request by telephone by telephone calls, the orders are 
+              received with the applicant's data and are sent directly to the cooks. The application has an administration 
+              system to perform the respective daily balances.
               </li>
               <li>
                 Used technology: <br/>
