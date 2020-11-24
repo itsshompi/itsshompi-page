@@ -14,7 +14,28 @@ export default class Work extends Component {
           </div>
           <div className="texts">
             <ul className="list">
-              <li>03/2017 - Present</li>
+              <li>10/2020 - Present</li>
+              <li>Development Leader / Project Manager</li>
+              <li>Verifa Fácil - VEFA SpA.</li>
+              <li>I work as a development leader with the SCRUM methodology, in turn I work in the 
+                development of our Application Programming Interface (API) that helps to obtain data 
+                from schools in Chile for different years built using Go (Golang), MongoDB, Python</li>
+              <li>
+                Used technology: <br/>                
+                <a href="https://nodejs.org/" target="blank__"><i class="devicon-nodejs-plain colored"></i></a>                
+                <a href="https://www.javascript.com/" target="blank__"><i class="devicon-javascript-plain colored"></i></a>                
+                <a href="https://www.mongodb.com/" target="blank__"><i class="devicon-mongodb-plain colored"></i></a>
+                <a href="https://www.python.org/" target="blank__"><i class="devicon-python-plain colored"></i></a>
+                <a href="https://www.nginx.com/" target="blank__"><i class="devicon-nginx-original colored"></i></a>
+                <a href="https://www.docker.com/" target="blank__"><i class="devicon-docker-plain colored"></i></a>
+                <a href="https://cloud.google.com/" target="blank__"><i class="devicon-google-plain colored"></i></a>
+                <a href="https://cloud.google.com/" target="blank__"><i class="devicon-debian-plain colored"></i></a>
+                <a href="https://cloud.google.com/" target="blank__"><i class="devicon-photoshop-plain colored"></i></a>
+              </li>
+            </ul>
+
+            <ul className="list">
+              <li>03/2017 - 08/2020</li>
               <li>Development Leader / Backend Developer</li>
               <li>FONDECYT Project of Initiation In Research 2017 No. 11170583. Universidad Catolica de Temuco</li>
               <li>I work as a development leader with the SCRUM methodology, in turn I work in the 

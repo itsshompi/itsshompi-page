@@ -24,8 +24,8 @@ export default class About extends Component {
               although I have a specialization in the following technologies: 
               <strong>Go (Golang), Python, NodeJS, MongoDB, MariaDB, PostgreSQL.</strong>
             </p>
-            <p>Today I find myself as an independent worker and as a research assistant in the 
-              FONDECYT Project No. 11170583 of the Universidad Catolica de Temuco.
+            <p>In my free time I dedicate myself to learning new methods of machine learning. The new knowledge is applied 
+              to create machine learning models for e-sport betting and trading in general.
             </p>
           </div>
         </div>
